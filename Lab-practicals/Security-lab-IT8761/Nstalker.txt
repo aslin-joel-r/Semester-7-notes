@@ -1,0 +1,48 @@
+Here is a clear explanation of the procedure for using N-Stalker Web Application Security Scanner:
+
+**Downloading and Installing N-Stalker**
+
+1. Download N-Stalker from the official website: [www.nstalker.com](https://www.nstalker.com)
+2. Install N-Stalker on your Windows computer. The installation process is straightforward and should not require any manual intervention.
+
+**Updating the N-Stealth HTTP Security Scanner and Attack Signature Database**
+
+1. Launch N-Stalker from your Windows computer.
+2. Navigate to the "License Manager" tab.
+3. Perform the update to ensure you have the latest version of N-Stealth HTTP Security Scanner and the most comprehensive attack signature database.
+
+**Scanning a Target Web Application**
+
+1. Enter the host address or range of addresses you want to scan.
+2. Click the "Start Scan" button.
+3. N-Stalker will scan the target web application and identify any vulnerabilities.
+4. Once the scan is complete, the N-Stalker Report Manager will prompt you to select a format for the resulting report. Choose "Generate HTML" for a comprehensive report.
+5. Review the HTML report carefully to identify and address any vulnerabilities.
+
+**Selecting a Scan Policy**
+
+1. Navigate to the "Scan Session" tab.
+2. Enter the target URL for the scan.
+3. In the "Scan Policy" section, select from the four available options:
+
+   a. Manual Test: Crawls the website and awaits manual attacks.
+   b. Full XSS Assessment: Thoroughly assesses the website for cross-site scripting vulnerabilities.
+   c. OWASP Policy: Adheres to the OWASP Top 10 security guidelines.
+   d. Web Server Infrastructure Analysis: Examines the web server infrastructure for potential security weaknesses.
+
+**Optimizing Scan Settings**
+
+1. After selecting the scan policy, click "Optimize Settings."
+2. N-Stalker will crawl the entire website for further analysis and optimization.
+
+**Reviewing Scan Results**
+
+1. In the "Review" option, access detailed information about the scan, including host information, technologies used, policy name, and more.
+
+**Starting the Scan and Analyzing Results**
+
+1. Click "Start Session" to initiate the scan.
+2. N-Stalker will crawl the entire website and display the results, including scripts, broken pages, hidden fields, information leakage, and web forms-related information.
+3. Once the scan is complete, N-Stalker will provide detailed information about each vulnerability, including its severity level, vulnerability class, explanation of the issue, recommended fix, and the affected URL.
+
+Remember, regular scanning with N-Stalker is crucial for maintaining the security of your web applications and preventing potential cyberattacks.
