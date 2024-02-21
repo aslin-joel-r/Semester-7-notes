@@ -1,0 +1,22 @@
+Let's break it down further:
+
+1. **Supply Chain Strategy or Design:**
+   - *What?* Planning how the supply chain will work for a long time.
+   - *Decisions:* Where to make things, how to use resources, and big choices like outsourcing or not.
+   - *Who decides:* Big bosses and top managers.
+   - *Timeframe:* Thinking years ahead.
+   - *Example:* Deciding where to build a factory and how to get products to customers.
+
+2. **Supply Chain Planning:**
+   - *What?* Planning for the next few months to a year, focusing on markets and short-term operations.
+   - *Decisions:* Choosing where to sell things, how much to make, and short-term rules for operations.
+   - *Timeframe:* Planning for the next few months or a year.
+   - *Example:* Figuring out how many products to make based on what customers want.
+
+3. **Supply Chain Operations:**
+   - *What?* Making quick decisions every day to fulfill individual customer orders.
+   - *Decisions:* Figuring out which specific products to send to customers, when to send them, and how to manage deliveries.
+   - *Timeframe:* Thinking about today or this week.
+   - *Example:* Quickly responding to a customer's order and making sure they get what they want on time.
+
+In simple terms, it's like planning how to run a business in the long term, figuring out the details for the next few months, and then making fast decisions every day to satisfy individual customer orders. Each phase deals with different timeframes and types of decisions to make sure everything works smoothly in the supply chain.

@@ -1,0 +1,27 @@
+The six major movements in the evolution of Supply Chain Management (SCM) in simple terms:
+
+1. **Creation Era:**
+   - *What happened:* This is when companies started to see the supply chain as a series of separate steps, from production to delivery.
+   - *Imagine:* It's like realizing that making a pizza involves getting the ingredients, preparing them, baking, and delivering.
+
+2. **Integration Era:**
+   - *What happened:* Companies began connecting these separate steps to work together more smoothly, improving efficiency.
+   - *Imagine:* Now, imagine the pizza-making process is well-organized, with each step seamlessly flowing into the next.
+
+3. **Globalization Era:**
+   - *What happened:* Businesses expanded globally, and supply chains started involving international partners and suppliers.
+   - *Imagine:* Instead of just making pizzas locally, now you might get cheese from one country, tomatoes from another, and so on.
+
+4. **Specialization Era 1:**
+   - *What happened:* Companies focused on what they do best and collaborated with others for different parts of the supply chain.
+   - *Imagine:* Just like a pizza restaurant might buy pre-made dough from a bakery because that bakery specializes in it.
+
+5. **Specialization Era 2:**
+   - *What happened:* Further specialization, with companies outsourcing even more specific tasks to experts.
+   - *Imagine:* Now, the pizza restaurant not only buys dough but also hires a delivery service because they are experts in delivering.
+
+6. **SCM 2.0:**
+   - *What happened:* The latest phase, where technology plays a big role, with advanced tools and data helping manage the supply chain more efficiently.
+   - *Imagine:* It's like the pizza restaurant using apps and computer systems to track orders, manage inventory, and make deliveries even smoother.
+
+So, from making pizzas step by step to managing a complex global network efficiently with the help of technology, these are the key phases in the evolution of Supply Chain Management.
